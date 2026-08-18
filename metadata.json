@@ -1,0 +1,6 @@
+{
+  "name": "Barista's Restaurant Kharian Cantt",
+  "description": "Online ordering, gourmet menu, story, reviews, order tracking, and live CMS management for Barista's Restaurant, Sadar Bazar, Kharian Cantt, Punjab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
